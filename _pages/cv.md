@@ -12,9 +12,9 @@ redirect_from:
 Education
 ======
 * B.S. General Geology, University of Texas at Austin, 2020 (Special Honors)
-  > Undergraduate thesis: Aeolian Dune Height Controls on Stratigraphic Architecture: White Sands Dune Field, New Mexico
+  &nbsp;&nbsp;&nbsp;&nbsp;Undergraduate thesis: Aeolian Dune Height Controls on Stratigraphic Architecture: White Sands Dune Field, New Mexico
 * Ph.D. Geography, University of California Santa Barbara, 2026 (expected)
-  > Committee: Vamsi Ganti (Chair), Dar Roberts, Gen Li, Somayeh Dodge
+  &nbsp;&nbsp;&nbsp;&nbsp;Committee: Vamsi Ganti (Chair), Dar Roberts, Gen Li, Somayeh Dodge
 
 Publications
 ======
